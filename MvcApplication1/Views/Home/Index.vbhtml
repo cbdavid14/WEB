@@ -20,7 +20,7 @@ End Code
     </section>
 End Section
 
-<h3>We suggest the following:</h3>
+<h3>Nosotros preguntamos lo siguiente:</h3>
 <ol class="round">
     <li class="one">
         <h5>Getting Started</h5>
